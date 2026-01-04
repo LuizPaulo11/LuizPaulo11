@@ -58,11 +58,11 @@ Todos os projetos são criados com foco em **aprendizado real**.
 <p align="left">
   <img 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=LuizPaulo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LuizPaulo11&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
   <img 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPaulo&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPaulo11&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 </p>
 
